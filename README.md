@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## What's the Challenge?
 
-You can use the [editor on GitHub](https://github.com/richardwhlu/hebrews_bible_reading_challenge/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We will be starting a Bible study through the book of Hebrews in the Fall! There are a lot of Old Testament themes throughout the book, so having a fresh reminder will help us better understand and apply the Scriptures properly into our lives. To aid in this effort, we will have a friendly challenge to read through the first five books of the Bible! Never heard of the Pentateuch? No worries. Need to touch up on your Torah? This is the right place. Genesis, Exodus, Leviticus, Numbers, and Deuteronomy are about 125,000 words in all, so at the average reader's speed (200 words per minute), it should only take about 10.5 hours to read through!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Ok, but What's the Prize?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/richardwhlu/hebrews_bible_reading_challenge/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you are able to read through Deuteronomy by the start of our study (Sept. 14), you will be rewarded with a free meal of your choice (likely delivered through DoorDash). Food for thought.
